@@ -1,0 +1,39 @@
+body{
+    font-family: 'Indie Flower', cursive;
+    background: lightsalmon;
+}
+
+.header_div{
+    background-color: snow;
+    color: salmon;
+}
+
+.header_div p{
+    font-family: 'Courier New', Courier;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: 800px;
+}
+
+.main_div button{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: orange;
+    background-color: whitesmoke;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darksalmon;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 5px 3px darkorange;
+}
